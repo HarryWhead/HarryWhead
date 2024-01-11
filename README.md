@@ -13,8 +13,8 @@ I have been coding Java plugins and mods since February 2023 but I have had a lo
 
 ### Current Clients:
 
-<img align="center" src="sword.jpg" width="60"> -   Sword4000  
-<img align="center" src="phytor.jpg" width="60"> -   PhytorMC
+<img align="center" src="sword.jpg" width="60"> -   [Sword4000](https://www.youtube.com/sword4000)   
+<img align="center" src="phytor.jpg" width="60"> -   [PhytorMC](https://store.phytormc.com/)
 <!---
 HarryWhead/HarryWhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
