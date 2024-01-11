@@ -1,6 +1,8 @@
 About Me
 =============
 
+<img align="center" src="character.png" width="200">   Hi I'm Harry, a 20 year old games programmer from the UK
+
 I am a University Student currently studying Computer games programming at Staffordshire University.  
 I have been coding Java plugins and mods since February 2023 but I have had a lot of coding experience in C++ and C# before this in College and University.
 
