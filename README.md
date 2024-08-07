@@ -7,7 +7,7 @@ I am a University Student currently studying Computer games programming at Staff
 I have been coding Java plugins and mods since February 2023 but I have had a lot of coding experience in C++ and C# before this in College and University.
 
 ### Over the past year, I have:
-- Made over 30 plugins.
+- Made over 100 plugins.
 - Worked with multiple content creators and Businesses.
 - Established many connections within the Minecraft community.
 
